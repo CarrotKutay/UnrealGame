@@ -28,7 +28,7 @@ A 3D Co-op Top Down Shooter Game using Unreal as a Game Engine.
 The weapon is attached to the player. It has basic values for 'Firing Rate' and 'Damage'
   - Damage = Damage the Weapon will do on an enemy player per projectile hit
   - Firing Rate = The timeframe which is needed for one projectile to be shot
- 
+ ***
 #### Character System:
 
 ##### Healthcubes
@@ -36,7 +36,7 @@ The weapon is attached to the player. It has basic values for 'Firing Rate' and 
   - The players maximum health is 100 (Life Points)
     * If the player has maximum health when picking up a health cube it will stay at 100 health
     * Else the player will gain 10 Life Point
-
+***
 #### Stage Design:
 ##### Stage Level: 
   - There are two difficulty levels for the stage (easy and hard). There will be more enemies in the harder one. Furthermore, the stages  differ slightly. 
