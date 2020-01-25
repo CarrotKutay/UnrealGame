@@ -11,6 +11,7 @@ A 3D Co-op Top Down Shooter Game using Unreal as a Game Engine.
 - [Character System](#character-system)
   * [Healthcubes](#healthcubes)
 - [Stage Design](#stage-design)
+  * [Stage Level](#stage-level)
   * [Spawn Manager](#spawn-manager)
 - [Input:](#input)
 
